@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MixerPanel
+comment1.params=
+comment1.target=MixerPanel()
+comment2.params=setliste1\ setliste2
+comment2.target=void\ setListe(java.util.List,\ java.util.List)
+comment3.params=
+comment3.target=void\ starte()
+numComments=4

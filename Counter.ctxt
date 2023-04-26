@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Counter
+comment1.params=
+comment1.target=void\ run()
+comment2.params=
+comment2.target=boolean\ lebt()
+comment3.params=
+comment3.target=boolean\ state()
+comment4.params=
+comment4.target=void\ next()
+comment5.params=a
+comment5.target=void\ setTime(int)
+comment6.params=
+comment6.target=int\ getTime()
+comment7.params=
+comment7.target=void\ pause()
+comment8.params=
+comment8.target=void\ unpause()
+comment9.params=
+comment9.target=int\ getStep()
+numComments=10

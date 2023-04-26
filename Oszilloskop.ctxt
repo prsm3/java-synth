@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Oszilloskop
+comment1.params=
+comment1.target=Oszilloskop()
+comment2.params=l
+comment2.target=void\ printListe(java.util.List)
+comment3.params=l
+comment3.target=void\ setListe(java.util.List)
+comment4.params=g
+comment4.target=void\ paint(java.awt.Graphics)
+comment5.params=liste
+comment5.target=java.util.List\ normalisieren(java.util.List)
+numComments=6

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Sequenzer
+comment1.params=
+comment1.target=Sequenzer()
+comment2.params=
+comment2.target=int\ getTime()
+comment3.params=i\ fq
+comment3.target=void\ setFrequenz(int,\ int)
+comment4.params=
+comment4.target=int\ getFrequenz()
+comment5.params=i
+comment5.target=int\ getFrequenz(int)
+comment6.params=a
+comment6.target=void\ setTime(int)
+comment7.params=
+comment7.target=void\ startCycle()
+comment8.params=
+comment8.target=void\ next()
+numComments=9

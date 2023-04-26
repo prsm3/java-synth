@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Mixer
+comment1.params=
+comment1.target=Mixer()
+comment2.params=l1\ l2
+comment2.target=void\ starte(java.util.List,\ java.util.List)
+comment3.params=m
+comment3.target=void\ setModus(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getModus()
+comment5.params=
+comment5.target=java.util.List\ getListe()
+comment6.params=l
+comment6.target=void\ printListe(java.util.List)
+comment7.params=
+comment7.target=void\ clearListe()
+numComments=8

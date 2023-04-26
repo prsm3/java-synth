@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Daempfungsglied
+comment1.params=
+comment1.target=Daempfungsglied()
+comment2.params=z
+comment2.target=void\ setZuwachs(double)
+comment3.params=
+comment3.target=double\ getZuwachs()
+comment4.params=l
+comment4.target=void\ starte(java.util.List)
+numComments=5
